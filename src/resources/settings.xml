@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
+    <setting id="render_mode" type="enum" label="30100" lvalues="30101|30102" default="0" />
 	<setting id="country" type="number" visible="false" values="0" default="0" />
     <setting id="genre" type="number" visible="false" values="0" default="0" />
 </settings>

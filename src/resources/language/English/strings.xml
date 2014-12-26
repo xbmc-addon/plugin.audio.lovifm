@@ -1,3 +1,15 @@
 <strings>
-	<string id="30001">Found %d radio station|Found %d radio stations</string>
+	<string id="30000">Found %d radio station|Found %d radio stations</string>
+    <string id="30100">Display mode</string>
+    <string id="30101">Icons</string>
+    <string id="30102">List</string>
+    <string id="30200">Page</string>
+    <string id="30201">Backward</string>
+    <string id="30202">Forward</string>
+    <string id="30300">Add to bookmarks</string>
+    <string id="30301">Remove from bookmarks</string>
+    <string id="30400">Select country</string>
+    <string id="30401">Select genre</string>
+    <string id="30402">All countries</string>
+    <string id="30403">All genres</string>
 </strings>

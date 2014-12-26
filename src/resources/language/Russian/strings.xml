@@ -1,3 +1,15 @@
 <strings>
-	<string id="30001">Найдено %d радиостанций|Найдена %d радиостанция|Найдено %d радиостанции|Найдено %d радиостанций</string>
+	<string id="30000">Найдено %d радиостанций|Найдена %d радиостанция|Найдено %d радиостанции|Найдено %d радиостанций</string>
+    <string id="30100">Режим отображения</string>
+    <string id="30101">Иконки</string>
+    <string id="30102">Список</string>
+    <string id="30200">Страница</string>
+    <string id="30201">Назад</string>
+    <string id="30202">Вперед</string>
+    <string id="30300">Добавить в закладки</string>
+    <string id="30301">Удалить из закладок</string>
+    <string id="30400">Выберите страну</string>
+    <string id="30401">Выберите жанр</string>
+    <string id="30402">Все страны</string>
+    <string id="30403">Все жанры</string>
 </strings>
